@@ -20,3 +20,7 @@ void Zadacha1(string currentText)
         Console.WriteLine("");
     }
 }
+
+**Block diagram**
+
+![block diagram fot the task](block.jpg)
